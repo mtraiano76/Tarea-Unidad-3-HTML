@@ -1,21 +1,29 @@
 body{
-    font-family: 'Roboto', sans-serif;  
-    background-color: lightsteelblue; 
+    font-family: 'Roboto', sans-serif;
+    background-color: lightsteelblue;
 }
 header{
     width: 50%;
 }
 h1{
     font-size: 25px;
+    color: aliceblue;
 }
 p{
     font-size: 20px;
-    
+    color: #000;
+    margin: 2%;
 }
+ul{
+  color: crimson
+}
+
+
 footer{
     background-color: lightslategray;
     color: azure;
     margin: 1px;
+    padding: 5px
 }
 div.registro{
 
